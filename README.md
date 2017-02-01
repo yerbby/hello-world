@@ -2,4 +2,7 @@
 Repositorio de prueb a
 
 ahora modifico el readme añadiendo esta linea
-y esta otra
+y esta (modificada en la segunda modificacion)
+
+segunda modificacion. en local. con github desktop.
+voy a modificar una de las lineas de arriba también.
