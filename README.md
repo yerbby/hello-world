@@ -8,5 +8,5 @@ segunda modificacion. en local. con github desktop.
 voy a modificar una de las lineas de arriba también.
 
 
-https://meet.lync.com/upct-es/javier.garrigos/PDG8T1BT
+
 
