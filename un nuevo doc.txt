@@ -1,5 +1,7 @@
-con nuevo contenido añadido en local
-una 3ª modificación en local
+con nuevo contenido aÃ±adido en local
+una 3Âª modificaciÃ³n en local
 
 y otra pero junta con la anterior en el mismo commit
 y con el github desktop cerrado. a ver si lo ve cuando lo abra. 
+
+safdsafdsaf
